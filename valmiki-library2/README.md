@@ -98,7 +98,7 @@ Content-Type: application/json
 {
   "isbn": "9780321356680",
   "title": "Effective Java",
-  "author": "Joshua Bloch",
+  "author": "James Goshling",
   "category": "Programming",
   "copiesAvailable": 5
 }
@@ -111,11 +111,12 @@ POST /api/members
 Content-Type: application/json
 
 {
-  "name": "John Doe",
-  "age": 22,
+  "name": "Valmiki yogesh",
+  "age": 21,
   "membershipType": "STANDARD",
-  "email": "john@example.com"
+  "email": "valmikiyogesh01@gmail.com"
 }
+
 ```
 
 ---
